@@ -69,7 +69,8 @@ Run Application
 
 ## Links:
 **E-mail**: daniil.aleshin@iaau.edu.kg
-
+<br>
+**Telegram**: @OberynMartelll
 <br>
 **Instagram**: https://www.instagram.com/__daniil28__/
 
