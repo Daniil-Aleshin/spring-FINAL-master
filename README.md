@@ -33,7 +33,7 @@ if you use JDK9 this dependency required
 INSTALLATION
 ------------
  1. Clone project and import as maven project.
- 2. Update MYSQL usernane and password under the <strong>application.properties</strong> 
+ 2. Update MYSQL username and password under the <strong>application.properties</strong> 
  `spring.datasource.username=` and 
  `spring.datasource.password=`
  3. change log directory as you wish under te <strong>log4j2-spring.xml</strong> 
@@ -63,22 +63,19 @@ Run Application
     
 [Deploy Application](https://spr1ngproject.herokuapp.com/)
 ------------
-[Documentation](https://github.com/baatyr10/springFinal/wiki)
+[Documentation](https://github.com/Daniil-Aleshin/springFINAL/wiki)
 ------------
 
 
 ## Links:
-**E-mail**: baatyr.birnazarov@iaau.edu.kg
+**E-mail**: daniil.aleshin@iaau.edu.kg
+
 <br>
-**VK**: https://vk.com/baatyr_10
-<br>
-**Instagram**: https://www.instagram.com/23baatyr/
-<br>
-**Facebook**: https://www.facebook.com/baatyr.10
+**Instagram**: https://www.instagram.com/__daniil28__/
 
 ## License
 [Apache-2.0 License](LICENSE).
 <br>
 [![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 <br>
-© Baatyr Birnazarov
+© Aleshin Daniil
